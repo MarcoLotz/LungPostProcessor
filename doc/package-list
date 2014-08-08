@@ -1,0 +1,8 @@
+com.marcolotz.MRComponents
+com.marcolotz.MapperComponents
+com.marcolotz.ReducerComponents
+com.marcolotz.lung.io.outputFormat
+com.marcolotz.lung.posprocesser.core
+com.marcolotz.lung.posprocesser.data
+com.marcolotz.lung.posprocesser.debug
+com.marcolotz.lung.posprocesser.output
